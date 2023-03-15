@@ -16,5 +16,5 @@ Some academic and extracurricular projects on SQL and Python
 - SQL (SF):
 Примеры составления SQL запросов для анализа продукта
 
-- Курсовые работы 
+- Курсовые работы:
 Код курсовых работ по статистике и ML (В РАЗРАБОТКЕ). Выполнено на Python
